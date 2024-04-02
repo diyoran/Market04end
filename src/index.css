@@ -47,3 +47,13 @@ img, svg{
     padding: 0 15px;
     margin: 0 auto;
 }
+
+.mode-light {
+    background-color: white;
+    color: black;
+}
+
+.mode-dark {
+    background-color: black;
+    color: white;
+}
